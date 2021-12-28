@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDatabaseBasics</string>
+    <string name="Add_Button">Add</string>
+    <string name="Reset_Button">Reset</string>
+</resources>
